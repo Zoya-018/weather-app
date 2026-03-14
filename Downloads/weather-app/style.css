@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+
+  background: url("images/clear.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.85);
+  width: 350px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
